@@ -10,5 +10,5 @@ kittens.unshift('Bob');
 }
 var destructivelyRemoveLastKitten=()=>{
 kittens.pop();
-  
+
 }
