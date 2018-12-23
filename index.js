@@ -6,5 +6,5 @@ kittens.push('Ralph');
 
 }
 var destructivelyPrependKitten=(name)=>{
-  
+
 }
