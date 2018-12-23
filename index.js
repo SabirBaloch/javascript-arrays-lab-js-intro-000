@@ -5,3 +5,6 @@ var destructivelyAppendKitten=(name)=>{
 kittens.push('Ralph');
 
 }
+var destructivelyPrependKitten=(name)=>{
+  
+}
