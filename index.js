@@ -15,3 +15,6 @@ kittens.pop();
 var destructivelyRemoveFirstKitten=()=>{
   kittens.shift();
 }
+var appendKitten=(name)=>{
+  appendBroom();
+}
