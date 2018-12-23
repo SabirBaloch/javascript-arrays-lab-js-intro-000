@@ -16,5 +16,5 @@ var destructivelyRemoveFirstKitten=()=>{
   kittens.shift();
 }
 var appendKitten=(name)=>{
-  appendkittens('Broom');
+  kittens.append('Broom');
 }
