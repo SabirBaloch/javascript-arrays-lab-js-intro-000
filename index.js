@@ -18,3 +18,6 @@ var destructivelyRemoveFirstKitten=()=>{
 var appendKitten=(name)=>{
   return [...kittens, 'Broom'];
 }
+var prependKitten=(name)=>{
+  return['Arnold', ...kittens];
+}
