@@ -8,3 +8,7 @@ kittens.push('Ralph');
 var destructivelyPrependKitten=(name)=>{
 kittens.unshift('Bob');
 }
+var destructivelyRemoveLastKitten=()=>{
+kittens.pop();
+  
+}
